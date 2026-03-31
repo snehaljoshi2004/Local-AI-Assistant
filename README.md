@@ -128,7 +128,7 @@ python src/web_ui_fixed.py
 
 ## User Interface
 - Figure 1: Main chat interface with model selection, temperature control, and conversation area
-path: docs/ui_screenshot.png
+path: docs/ui_overview.png
 
 ## Operational Guide
 
