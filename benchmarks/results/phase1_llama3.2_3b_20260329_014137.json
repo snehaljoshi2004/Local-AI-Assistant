@@ -1,0 +1,167 @@
+{
+  "model": "llama3.2:3b",
+  "timestamp": "2026-03-29T01:41:37.686447",
+  "total_prompts": 10,
+  "results": [
+    {
+      "prompt": "What is the capital of France? Answer in one sentence.",
+      "run": 1,
+      "timestamp": "2026-03-29T01:40:55.960608",
+      "metrics": {
+        "total_time_seconds": 4.848,
+        "time_to_first_token_ms": 4758.29,
+        "tokens_generated": 8,
+        "tokens_per_second": 1.65,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 61.2,
+        "gpu_memory_used_mb": 3555.0,
+        "gpu_utilization_percent": 57.8895945285784
+      },
+      "response_preview": "The capital of France is Paris."
+    },
+    {
+      "prompt": "What is the capital of France? Answer in one sentence.",
+      "run": 2,
+      "timestamp": "2026-03-29T01:40:58.530531",
+      "metrics": {
+        "total_time_seconds": 2.469,
+        "time_to_first_token_ms": 2381.29,
+        "tokens_generated": 8,
+        "tokens_per_second": 3.24,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 61.8,
+        "gpu_memory_used_mb": 3557.0,
+        "gpu_utilization_percent": 57.9221625142485
+      },
+      "response_preview": "The capital of France is Paris."
+    },
+    {
+      "prompt": "Explain quantum computing in 2-3 sentences.",
+      "run": 1,
+      "timestamp": "2026-03-29T01:41:02.351806",
+      "metrics": {
+        "total_time_seconds": 3.736,
+        "time_to_first_token_ms": 2414.77,
+        "tokens_generated": 107,
+        "tokens_per_second": 28.64,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 61.8,
+        "gpu_memory_used_mb": 3555.0,
+        "gpu_utilization_percent": 57.8895945285784
+      },
+      "response_preview": "Quantum computing is a new paradigm of computing that uses the principles of quantum mechanics to perform calculations and operations on data. Unlike classical computers, which use bits (0s and 1s) to..."
+    },
+    {
+      "prompt": "Explain quantum computing in 2-3 sentences.",
+      "run": 2,
+      "timestamp": "2026-03-29T01:41:06.368962",
+      "metrics": {
+        "total_time_seconds": 3.822,
+        "time_to_first_token_ms": 2399.59,
+        "tokens_generated": 95,
+        "tokens_per_second": 24.86,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 61.3,
+        "gpu_memory_used_mb": 3549.0,
+        "gpu_utilization_percent": 57.791890571568146
+      },
+      "response_preview": "Quantum computing is a revolutionary technology that uses the principles of quantum mechanics to perform calculations and operations on data. Unlike classical computers, which use bits to store inform..."
+    },
+    {
+      "prompt": "Write a short Python function to calculate fibonacci numbers.",
+      "run": 1,
+      "timestamp": "2026-03-29T01:41:10.848070",
+      "metrics": {
+        "total_time_seconds": 4.381,
+        "time_to_first_token_ms": 2351.25,
+        "tokens_generated": 147,
+        "tokens_per_second": 33.55,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 61.2,
+        "gpu_memory_used_mb": 3540.0,
+        "gpu_utilization_percent": 57.64533463605276
+      },
+      "response_preview": "def fibonacci(n):\n    \"\"\"\n    Calculate the nth Fibonacci number.\n\n    Args:\n        n (int): The position of the Fibonacci number to calculate.\n\n    Returns:\n        int: The nth Fibonacci number.\n  ..."
+    },
+    {
+      "prompt": "Write a short Python function to calculate fibonacci numbers.",
+      "run": 2,
+      "timestamp": "2026-03-29T01:41:15.425087",
+      "metrics": {
+        "total_time_seconds": 4.489,
+        "time_to_first_token_ms": 2390.21,
+        "tokens_generated": 151,
+        "tokens_per_second": 33.64,
+        "avg_token_latency_ms": 0.01,
+        "ram_usage_percent": 61.2,
+        "gpu_memory_used_mb": 3540.0,
+        "gpu_utilization_percent": 57.64533463605276
+      },
+      "response_preview": "def fibonacci(n):\n    \"\"\"\n    Calculate the nth Fibonacci number.\n\n    Args:\n        n (int): The position of the Fibonacci number to be calculated.\n\n    Returns:\n        int: The nth Fibonacci number..."
+    },
+    {
+      "prompt": "What are the benefits of renewable energy?",
+      "run": 1,
+      "timestamp": "2026-03-29T01:41:23.238953",
+      "metrics": {
+        "total_time_seconds": 7.696,
+        "time_to_first_token_ms": 2528.73,
+        "tokens_generated": 381,
+        "tokens_per_second": 49.51,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 60.8,
+        "gpu_memory_used_mb": 3540.0,
+        "gpu_utilization_percent": 57.64533463605276
+      },
+      "response_preview": "The benefits of renewable energy are numerous and significant. Some of the most important advantages of renewable energy include:\n\n1. **Sustainability**: Renewable energy sources, such as solar and wi..."
+    },
+    {
+      "prompt": "What are the benefits of renewable energy?",
+      "run": 2,
+      "timestamp": "2026-03-29T01:41:31.622768",
+      "metrics": {
+        "total_time_seconds": 8.219,
+        "time_to_first_token_ms": 2543.71,
+        "tokens_generated": 423,
+        "tokens_per_second": 51.47,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 60.8,
+        "gpu_memory_used_mb": 3540.0,
+        "gpu_utilization_percent": 57.64533463605276
+      },
+      "response_preview": "The benefits of renewable energy are numerous and significant. Some of the most notable advantages include:\n\n1. **Reduced greenhouse gas emissions**: Renewable energy sources such as solar, wind, and ..."
+    },
+    {
+      "prompt": "Tell me a short joke.",
+      "run": 1,
+      "timestamp": "2026-03-29T01:41:34.694222",
+      "metrics": {
+        "total_time_seconds": 2.905,
+        "time_to_first_token_ms": 2526.58,
+        "tokens_generated": 16,
+        "tokens_per_second": 5.51,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 61.0,
+        "gpu_memory_used_mb": 3543.0,
+        "gpu_utilization_percent": 57.694186614557886
+      },
+      "response_preview": "Why don't eggs tell jokes?\n\nBecause they'd crack each other up!"
+    },
+    {
+      "prompt": "Tell me a short joke.",
+      "run": 2,
+      "timestamp": "2026-03-29T01:41:37.685136",
+      "metrics": {
+        "total_time_seconds": 2.909,
+        "time_to_first_token_ms": 2499.48,
+        "tokens_generated": 16,
+        "tokens_per_second": 5.5,
+        "avg_token_latency_ms": 0.0,
+        "ram_usage_percent": 60.8,
+        "gpu_memory_used_mb": 3543.0,
+        "gpu_utilization_percent": 57.694186614557886
+      },
+      "response_preview": "Why don't eggs tell jokes?\n\nBecause they'd crack each other up!"
+    }
+  ]
+}

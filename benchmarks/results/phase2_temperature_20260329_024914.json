@@ -1,0 +1,84 @@
+{
+  "temperature_0": {
+    "creative": {
+      "analysis": {
+        "length_variance": 48,
+        "length_std": 6.928203230275509,
+        "unique_outputs": 2,
+        "total_runs": 3,
+        "diversity_ratio": 0.6666666666666666
+      },
+      "sample_outputs": [
+        "As the last star in the universe flickered out, a lone robot named Aria began to hum a melody that harmonized with the dying embers of existence, and ",
+        "As the last star in the universe flickered out, a lone robot named Aria began to hum a melody that harmonized with the dying embers of creation itself"
+      ]
+    },
+    "factual": {
+      "analysis": {
+        "length_variance": 0,
+        "length_std": 0.0,
+        "unique_outputs": 1,
+        "total_runs": 3,
+        "diversity_ratio": 0.3333333333333333
+      },
+      "sample_outputs": [
+        "The capital of Japan is Tokyo.",
+        "The capital of Japan is Tokyo."
+      ]
+    },
+    "code": {
+      "analysis": {
+        "length_variance": 0,
+        "length_std": 0.0,
+        "unique_outputs": 1,
+        "total_runs": 3,
+        "diversity_ratio": 0.3333333333333333
+      },
+      "sample_outputs": [
+        "def add_numbers(a, b):\n    \"\"\"\n    Adds two numbers together.\n\n    Args:\n        a (int or float): The first number.\n        b (int or float): The sec",
+        "def add_numbers(a, b):\n    \"\"\"\n    Adds two numbers together.\n\n    Args:\n        a (int or float): The first number.\n        b (int or float): The sec"
+      ]
+    }
+  },
+  "temperature_0.7": {
+    "creative": {
+      "analysis": {
+        "length_variance": 37.33333333333333,
+        "length_std": 6.110100926607786,
+        "unique_outputs": 3,
+        "total_runs": 3,
+        "diversity_ratio": 1.0
+      },
+      "sample_outputs": [
+        "As the clock struck midnight, Zeta's glowing blue eyes flickered to life, and with a whispered promise of \"eternal harmony,\" she rose from her slumber",
+        "As the clock struck midnight, Zeta-5's glowing blue optics flickered to life, and with a gentle whir, it began to weave an intricate tapestry of stars"
+      ]
+    },
+    "factual": {
+      "analysis": {
+        "length_variance": 0,
+        "length_std": 0.0,
+        "unique_outputs": 1,
+        "total_runs": 3,
+        "diversity_ratio": 0.3333333333333333
+      },
+      "sample_outputs": [
+        "The capital of Japan is Tokyo.",
+        "The capital of Japan is Tokyo."
+      ]
+    },
+    "code": {
+      "analysis": {
+        "length_variance": 616.3333333333334,
+        "length_std": 24.826061575153908,
+        "unique_outputs": 2,
+        "total_runs": 3,
+        "diversity_ratio": 0.6666666666666666
+      },
+      "sample_outputs": [
+        "def add_numbers(a, b):\n    \"\"\"\n    Adds two numbers together.\n\n    Args:\n        a (float): The first number.\n        b (float): The second number.\n\n ",
+        "def add_numbers(a, b):\n    \"\"\"\n    Adds two numbers together.\n\n    Args:\n        a (float): The first number.\n        b (float): The second number.\n\n "
+      ]
+    }
+  }
+}

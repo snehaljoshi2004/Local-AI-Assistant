@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "tokens_per_second": 1.7,
+    "time_to_first_token_ms": 4617.49,
+    "total_time_seconds": 4.71,
+    "tokens_generated": 8,
+    "response": "The capital of France is Paris."
+  },
+  {
+    "prompt": "Explain quantum computing in one sentence.",
+    "tokens_per_second": 15.2,
+    "time_to_first_token_ms": 2343.96,
+    "total_time_seconds": 2.89,
+    "tokens_generated": 44,
+    "response": "Quantum computing is a new paradigm for computing that uses the principles of quantum mechanics, such as superposition and entanglement, to perform calculations that are exponentially faster and more "
+  },
+  {
+    "prompt": "Write a Python function to add two numbers.",
+    "tokens_per_second": 22.56,
+    "time_to_first_token_ms": 2371.43,
+    "total_time_seconds": 3.28,
+    "tokens_generated": 74,
+    "response": "def add_numbers(num1, num2):\n    \"\"\"\n    Adds two numbers together.\n\n    Args:\n        num1 (int or float): The first number to add.\n        num2 (int or float): The second number to add.\n\n    Returns"
+  },
+  {
+    "prompt": "Tell me a short joke.",
+    "tokens_per_second": 5.79,
+    "time_to_first_token_ms": 2429.54,
+    "total_time_seconds": 2.76,
+    "tokens_generated": 16,
+    "response": "Why don't eggs tell jokes?\n\nBecause they'd crack each other up!"
+  },
+  {
+    "prompt": "What is 2+2?",
+    "tokens_per_second": 4.4,
+    "time_to_first_token_ms": 2434.01,
+    "total_time_seconds": 2.73,
+    "tokens_generated": 12,
+    "response": "The answer to 2+2 is 4."
+  }
+]

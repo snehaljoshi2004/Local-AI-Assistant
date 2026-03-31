@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "total_prompts": 30,
+    "categories": [
+      "factual",
+      "reasoning",
+      "coding",
+      "creative"
+    ]
+  },
+  "prompts": [
+    {
+      "id": "fact_1",
+      "category": "factual",
+      "prompt": "What is the capital of Japan?"
+    },
+    {
+      "id": "fact_2",
+      "category": "factual",
+      "prompt": "Who painted the Mona Lisa?"
+    },
+    {
+      "id": "fact_3",
+      "category": "factual",
+      "prompt": "What is the chemical symbol for gold?"
+    },
+    {
+      "id": "fact_4",
+      "category": "factual",
+      "prompt": "When did World War II end?"
+    },
+    {
+      "id": "fact_5",
+      "category": "factual",
+      "prompt": "What is the largest ocean on Earth?"
+    },
+    {
+      "id": "fact_6",
+      "category": "factual",
+      "prompt": "Who wrote '1984'?"
+    },
+    {
+      "id": "fact_7",
+      "category": "factual",
+      "prompt": "What is the square root of 144?"
+    },
+    {
+      "id": "fact_8",
+      "category": "factual",
+      "prompt": "What is the main ingredient in guacamole?"
+    },
+    {
+      "id": "fact_9",
+      "category": "factual",
+      "prompt": "Who was the first person to walk on the moon?"
+    },
+    {
+      "id": "fact_10",
+      "category": "factual",
+      "prompt": "What does CPU stand for?"
+    },
+    {
+      "id": "reason_1",
+      "category": "reasoning",
+      "prompt": "If a store has 120 apples and sells 45, how many are left?"
+    },
+    {
+      "id": "reason_2",
+      "category": "reasoning",
+      "prompt": "A rectangle has length 10cm and width 5cm. What is its area?"
+    },
+    {
+      "id": "reason_3",
+      "category": "reasoning",
+      "prompt": "What comes next in the sequence: 2, 4, 8, 16, ?"
+    },
+    {
+      "id": "reason_4",
+      "category": "reasoning",
+      "prompt": "If it takes 3 hours to drive 180 miles, what is the average speed?"
+    },
+    {
+      "id": "reason_5",
+      "category": "reasoning",
+      "prompt": "Which is heavier: 1kg of feathers or 1kg of steel?"
+    },
+    {
+      "id": "reason_6",
+      "category": "reasoning",
+      "prompt": "If you have 3 apples and give away 2, then buy 5 more, how many do you have?"
+    },
+    {
+      "id": "reason_7",
+      "category": "reasoning",
+      "prompt": "What day comes three days after Tuesday?"
+    },
+    {
+      "id": "reason_8",
+      "category": "reasoning",
+      "prompt": "If all cats are mammals and some mammals are dogs, are all cats dogs?"
+    },
+    {
+      "id": "code_1",
+      "category": "coding",
+      "prompt": "Write a Python function to reverse a string."
+    },
+    {
+      "id": "code_2",
+      "category": "coding",
+      "prompt": "Write a Python function to find the factorial of a number."
+    },
+    {
+      "id": "code_3",
+      "category": "coding",
+      "prompt": "Write a list comprehension to get even numbers from 1 to 20."
+    },
+    {
+      "id": "code_4",
+      "category": "coding",
+      "prompt": "Write a Python class for a simple Bank Account with deposit and withdraw methods."
+    },
+    {
+      "id": "code_5",
+      "category": "coding",
+      "prompt": "Write a function to check if a string is a palindrome."
+    },
+    {
+      "id": "code_6",
+      "category": "coding",
+      "prompt": "Write a Python one-liner to generate first 10 Fibonacci numbers."
+    },
+    {
+      "id": "creative_1",
+      "category": "creative",
+      "prompt": "Write a short poem about a cat."
+    },
+    {
+      "id": "creative_2",
+      "category": "creative",
+      "prompt": "Tell a one-sentence horror story."
+    },
+    {
+      "id": "creative_3",
+      "category": "creative",
+      "prompt": "Describe a sunset in 3 sentences."
+    },
+    {
+      "id": "creative_4",
+      "category": "creative",
+      "prompt": "Invent a new holiday and explain how it's celebrated."
+    },
+    {
+      "id": "creative_5",
+      "category": "creative",
+      "prompt": "Write a haiku about winter."
+    },
+    {
+      "id": "creative_6",
+      "category": "creative",
+      "prompt": "Create a slogan for a new AI company."
+    }
+  ]
+}
